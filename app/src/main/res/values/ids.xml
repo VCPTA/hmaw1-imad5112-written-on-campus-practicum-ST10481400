@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="commentsInput" type="id">commentsInput</item>
+    <item name="ratingInput" type="id">ratingInput</item>
+    <item name="songTitleInput" type="id">songTitleInput</item>
+    <item name="artistNameInput" type="id">artistNameInput</item>
+    <item name="btnBack" type="id">btnBack</item>
+</resources>
